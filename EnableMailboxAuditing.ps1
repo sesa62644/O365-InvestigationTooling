@@ -1,4 +1,4 @@
-#This script will enable non-owner mailbox access auditing on every mailbox in your tenancy
+#This script will enable owner mailbox access auditing on every mailbox in your tenancy
 #First, let's get us a cred!
 $userCredential = Get-Credential
 
